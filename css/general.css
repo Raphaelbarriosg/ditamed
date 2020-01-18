@@ -1,0 +1,18 @@
+element.style {
+    text-shadow: 2px 2px 2px #CE5937;
+}
+
+strong {
+    text-shadow: 4px 4px 4px rgb(8, 8, 8);
+}
+
+
+text-white  {
+    text-shadow: 2px 2px 2px #CE5937;
+    color: #000000!important;
+    
+}
+
+footer.p{
+    color: chartreuse;
+}
