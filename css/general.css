@@ -16,3 +16,7 @@ text-white  {
 footer.p{
     color: chartreuse;
 }
+
+ text-center py-3.p.h5 {
+    text-decoration-color: chartreuse;
+}
