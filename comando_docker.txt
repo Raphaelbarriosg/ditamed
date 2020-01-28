@@ -1,0 +1,1 @@
+docker run -p 9191:80 -v C:\contenedores\startapps:/var/www/html --name=STARTAPPS php:7.0-apache
